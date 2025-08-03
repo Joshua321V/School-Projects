@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Billing and Invoicing System
+</name>
+</assembly>
+<members>
+<member name="T:Billing_and_Invoicing_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.Almond_Mocha_Joy_300x300">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.Black_and_White_Mocha_300x300">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.cafe_emoji_tea_iced_coffee_png_favpng_1gvL7QdDSBi0hWxr0zHnmVDHA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Billing_and_Invoicing_System.My.Resources.Resources.coffee_6467644_1280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

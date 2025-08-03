@@ -1,0 +1,52 @@
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Billing and Invoicing System.exe.config
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Billing and Invoicing System.exe
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Billing and Invoicing System.pdb
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Billing and Invoicing System.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\ZstdSharp.dll
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.CustomerForm.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.Form1.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.MainForm.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.Resources.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.ProductForm.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.UserForm.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing .CDC8699A.Up2Date
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.exe
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.xml
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.pdb
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing and Invoicing System.exe.config
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.BillingForm.resources
+C:\Users\HP\source\repos\Billing and Invoicing System\Billing and Invoicing System\obj\Debug\Billing_and_Invoicing_System.SalesReportForm.resources
